@@ -1,4 +1,3 @@
-<h1 align="center">GoatXII3 𓃵</h1>
 <p align="center">Software Developer · AI Automation Expert · Web3 Content Creator</p>
 
 <p align="center">
@@ -18,11 +17,15 @@ I build production software, design AI automations that compound, and write for 
 
 ## Featured Work
 
-**[DarkONNET](https://darkonnet.vercel.app/)** — a privacy-preserving prediction market built around encrypted on-chain betting. 🏆 Winner, OKX LayerX Hackathon S2.
+**[DarkONNET](https://darkonnet.vercel.app/)** — a privacy-preserving prediction market built around encrypted on-chain betting.
 
 **[Xsporty](https://xsporty.xyz/)** — a sports prediction market on X Layer, with an on-site natural-language assistant and a World Cup Telegram bot.
 
 **[Staxxs](https://staxxs.vercel.app/)** — a personal monthly tracker for income, goals, and progress visualization.
+
+## Achievements
+
+🏆 **Winner, OKX LayerX Hackathon S2** — for DarkONNET, shipped and judged live.
 
 ## Tech Stack
 
