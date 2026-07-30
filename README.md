@@ -45,8 +45,8 @@ I build production software, design AI automations that compound, and write for 
 ## GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ollie202&show_icons=true&hide_border=true&theme=dark&bg_color=0e0d0c&title_color=d9bc8a&icon_color=d9bc8a&text_color=f3ece0" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ollie202&layout=compact&hide_border=true&theme=dark&bg_color=0e0d0c&title_color=d9bc8a&text_color=f3ece0" />
+  <img height="165" src="https://github-readme-stats-silk-omega-14.vercel.app/api?username=Ollie202&show_icons=true&hide_border=true&theme=dark&bg_color=0e0d0c&title_color=d9bc8a&icon_color=d9bc8a&text_color=f3ece0" />
+  <img height="165" src="https://github-readme-stats-silk-omega-14.vercel.app/api/top-langs/?username=Ollie202&layout=compact&hide_border=true&theme=dark&bg_color=0e0d0c&title_color=d9bc8a&text_color=f3ece0" />
 </p>
 
 <p align="center"><em>Building in public. <a href="https://x.com/GoatXII3">Follow along on X</a>.</em></p>
