@@ -25,7 +25,7 @@ I build production software, design AI automations that compound, and write for 
 
 ## Achievements
 
-🏆 **Winner, OKX LayerX Hackathon S2** — for DarkONNET, shipped and judged live.
+🏆 **Winner, OKX LayerX Hackathon S2**
 
 ## Tech Stack
 
