@@ -39,6 +39,7 @@ I build production software, design AI automations that compound, and write for 
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" />
   <img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white" />
+  <img src="assets/icons/openai.svg" width="20" height="20" alt="" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
   <img src="https://img.shields.io/badge/Claude-D9BC8A?style=flat-square&logo=claude&logoColor=1a1612" />
 </p>
