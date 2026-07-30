@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://goatxii3.dev"><img src="https://img.shields.io/badge/portfolio-goatxii3.dev-d9bc8a?style=flat-square" alt="Portfolio" /></a>
-  <a href="https://x.com/goatxii3"><img src="https://img.shields.io/badge/X-@goatxii3-000000?style=flat-square&logo=x" alt="X" /></a>
+  <a href="https://x.com/GoatXII3"><img src="https://img.shields.io/badge/X-@GoatXII3-000000?style=flat-square&logo=x" alt="X" /></a>
   <a href="https://t.me/goatxii3"><img src="https://img.shields.io/badge/Telegram-@goatxii3-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:ollieweb3@gmail.com"><img src="https://img.shields.io/badge/email-ollieweb3-6E6E6E?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -38,8 +38,8 @@ I build production software, design AI automations that compound, and write for 
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" />
   <img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D9BC8A?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/Claude-D9BC8A?style=flat-square&logo=claude&logoColor=1a1612" />
 </p>
 
 ## GitHub Stats
@@ -49,4 +49,4 @@ I build production software, design AI automations that compound, and write for 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ollie202&layout=compact&hide_border=true&theme=dark&bg_color=0e0d0c&title_color=d9bc8a&text_color=f3ece0" />
 </p>
 
-<p align="center"><em>Building in public. <a href="https://x.com/goatxii3">Follow along on X</a>.</em></p>
+<p align="center"><em>Building in public. <a href="https://x.com/GoatXII3">Follow along on X</a>.</em></p>
