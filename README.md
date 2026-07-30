@@ -34,13 +34,13 @@ I build production software, design AI automations that compound, and write for 
 </p>
 
 <p>
-  <img src="assets/icons/rainbowkit.svg" width="48" height="48" alt="RainbowKit" />
-  <img src="assets/icons/smart-contracts.svg" width="48" height="48" alt="Smart Contracts" />
-  <img src="assets/icons/n8n.svg" width="48" height="48" alt="n8n" />
-  <img src="assets/icons/zapier.svg" width="48" height="48" alt="Zapier" />
-  <img src="assets/icons/airtable.svg" width="48" height="48" alt="Airtable" />
-  <img src="assets/icons/openai.svg" width="48" height="48" alt="OpenAI" />
-  <img src="assets/icons/claude.svg" width="48" height="48" alt="Claude" />
+  <img src="https://img.shields.io/badge/RainbowKit-2A2A40?style=flat-square" />
+  <img src="https://img.shields.io/badge/Smart_Contracts-363636?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/Claude-D9BC8A?style=flat-square&logo=claude&logoColor=1a1612" />
 </p>
 
 <p align="center"><em>Building in public. <a href="https://x.com/GoatXII3">Follow along on X</a>.</em></p>
